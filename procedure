@@ -1,0 +1,8 @@
+steps:
+ create a input dir with face
+ create a folder to save the model
+ create a folder training summaries to store the summaries
+ create a bottleneck folder to store bottleneck values
+ create file with .pb
+ create a file label.txt to store the names
+ run the retrain.py
